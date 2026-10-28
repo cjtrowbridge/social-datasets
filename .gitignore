@@ -1,0 +1,6 @@
+__pycache__/
+.bootstrap-cache/
+data/*/.staging-*/
+data/*/.previous/
+data/*/.update.lock
+data/*/.cache/
